@@ -84,3 +84,248 @@ INFO: HTTP OK 200
 Connection established to: https://jsonplaceholder.typicode.com/users
 
 ------------------------------
+jún. 30, 2022 3:19:42 DU. application.Main main
+INFO: HTTP OK 200
+Connection established to: https://jsonplaceholder.typicode.com/users
+
+------------------------------
+jún. 30, 2022 3:38:16 DU. application.Main main
+INFO: HTTP OK 200
+Connection established to: https://jsonplaceholder.typicode.com/users
+
+------------------------------
+jún. 30, 2022 3:40:55 DU. application.Main main
+INFO: HTTP OK 200
+Connection established to: https://jsonplaceholder.typicode.com/users
+
+------------------------------
+jún. 30, 2022 3:52:36 DU. application.Main main
+INFO: HTTP OK 200
+Connection established to: https://jsonplaceholder.typicode.com/users
+
+------------------------------
+jún. 30, 2022 3:54:41 DU. application.Main main
+INFO: HTTP OK 200
+Connection established to: https://jsonplaceholder.typicode.com/users
+
+------------------------------
+jún. 30, 2022 3:55:05 DU. application.Main main
+INFO: HTTP OK 200
+Connection established to: https://jsonplaceholder.typicode.com/users
+
+------------------------------
+jún. 30, 2022 3:55:42 DU. application.Main main
+INFO: HTTP OK 200
+Connection established to: https://jsonplaceholder.typicode.com/users
+
+------------------------------
+jún. 30, 2022 3:57:58 DU. application.Main main
+INFO: HTTP OK 200
+Connection established to: https://jsonplaceholder.typicode.com/users
+
+------------------------------
+jún. 30, 2022 3:58:15 DU. application.Main main
+INFO: HTTP OK 200
+Connection established to: https://jsonplaceholder.typicode.com/users
+
+------------------------------
+jún. 30, 2022 3:58:48 DU. application.Main main
+INFO: HTTP OK 200
+Connection established to: https://jsonplaceholder.typicode.com/users
+
+------------------------------
+jún. 30, 2022 4:00:54 DU. application.Main main
+INFO: HTTP OK 200
+Connection established to: https://jsonplaceholder.typicode.com/users
+
+------------------------------
+jún. 30, 2022 4:11:59 DU. application.Main main
+INFO: HTTP OK 200
+Connection established to: https://jsonplaceholder.typicode.com/users
+
+------------------------------
+jún. 30, 2022 4:46:08 DU. application.Main main
+INFO: HTTP OK 200
+Connection established to: https://jsonplaceholder.typicode.com/users
+
+------------------------------
+jún. 30, 2022 4:46:47 DU. application.Main main
+INFO: HTTP OK 200
+Connection established to: https://jsonplaceholder.typicode.com/users
+
+------------------------------
+jún. 30, 2022 4:47:01 DU. application.Main main
+INFO: HTTP OK 200
+Connection established to: https://jsonplaceholder.typicode.com/users
+
+------------------------------
+jún. 30, 2022 4:49:05 DU. application.Main main
+INFO: HTTP OK 200
+Connection established to: https://jsonplaceholder.typicode.com/users
+
+------------------------------
+jún. 30, 2022 4:49:37 DU. application.Main main
+INFO: HTTP OK 200
+Connection established to: https://jsonplaceholder.typicode.com/users
+
+------------------------------
+jún. 30, 2022 4:53:08 DU. application.Main main
+INFO: HTTP OK 200
+Connection established to: https://jsonplaceholder.typicode.com/users
+
+------------------------------
+jún. 30, 2022 4:54:01 DU. application.Main main
+INFO: HTTP OK 200
+Connection established to: https://jsonplaceholder.typicode.com/users
+
+------------------------------
+jún. 30, 2022 4:54:28 DU. application.Main main
+INFO: HTTP OK 200
+Connection established to: https://jsonplaceholder.typicode.com/users
+
+------------------------------
+jún. 30, 2022 4:54:50 DU. application.Main main
+INFO: HTTP OK 200
+Connection established to: https://jsonplaceholder.typicode.com/users
+
+------------------------------
+jún. 30, 2022 5:00:02 DU. application.Main main
+INFO: HTTP OK 200
+Connection established to: https://jsonplaceholder.typicode.com/users
+
+------------------------------
+jún. 30, 2022 5:02:17 DU. application.Main main
+INFO: HTTP OK 200
+Connection established to: https://jsonplaceholder.typicode.com/users
+
+------------------------------
+jún. 30, 2022 5:05:28 DU. application.Main main
+INFO: HTTP OK 200
+Connection established to: https://jsonplaceholder.typicode.com/users
+
+------------------------------
+jún. 30, 2022 5:06:02 DU. application.Main main
+INFO: HTTP OK 200
+Connection established to: https://jsonplaceholder.typicode.com/users
+
+------------------------------
+jún. 30, 2022 5:10:20 DU. application.Main main
+INFO: HTTP OK 200
+Connection established to: https://jsonplaceholder.typicode.com/users
+
+------------------------------
+jún. 30, 2022 5:10:49 DU. application.Main main
+INFO: HTTP OK 200
+Connection established to: https://jsonplaceholder.typicode.com/users
+
+------------------------------
+jún. 30, 2022 5:12:26 DU. application.Main main
+INFO: HTTP OK 200
+Connection established to: https://jsonplaceholder.typicode.com/users
+
+------------------------------
+jún. 30, 2022 5:19:58 DU. application.Main main
+INFO: HTTP OK 200
+Connection established to: https://jsonplaceholder.typicode.com/users
+
+------------------------------
+jún. 30, 2022 5:20:19 DU. application.Main main
+INFO: HTTP OK 200
+Connection established to: https://jsonplaceholder.typicode.com/users
+
+------------------------------
+jún. 30, 2022 5:22:19 DU. application.Main main
+INFO: HTTP OK 200
+Connection established to: https://jsonplaceholder.typicode.com/users
+
+------------------------------
+jún. 30, 2022 5:23:29 DU. application.Main main
+INFO: HTTP OK 200
+Connection established to: https://jsonplaceholder.typicode.com/users
+
+------------------------------
+jún. 30, 2022 5:24:41 DU. application.Main main
+INFO: HTTP OK 200
+Connection established to: https://jsonplaceholder.typicode.com/users
+
+------------------------------
+jún. 30, 2022 5:35:20 DU. application.Main main
+INFO: HTTP OK 200
+Connection established to: https://jsonplaceholder.typicode.com/users
+
+------------------------------
+jún. 30, 2022 5:35:37 DU. application.Main main
+INFO: HTTP OK 200
+Connection established to: https://jsonplaceholder.typicode.com/users
+
+------------------------------
+jún. 30, 2022 5:47:50 DU. application.Main main
+INFO: HTTP OK 200
+Connection established to: https://jsonplaceholder.typicode.com/users
+
+------------------------------
+jún. 30, 2022 5:48:18 DU. application.Main main
+INFO: HTTP OK 200
+Connection established to: https://jsonplaceholder.typicode.com/users
+
+------------------------------
+jún. 30, 2022 5:48:46 DU. application.Main main
+INFO: HTTP OK 200
+Connection established to: https://jsonplaceholder.typicode.com/users
+
+------------------------------
+jún. 30, 2022 5:50:17 DU. application.Main main
+INFO: HTTP OK 200
+Connection established to: https://jsonplaceholder.typicode.com/users
+
+------------------------------
+jún. 30, 2022 5:50:55 DU. application.Main main
+INFO: HTTP OK 200
+Connection established to: https://jsonplaceholder.typicode.com/users
+
+------------------------------
+júl. 01, 2022 1:34:14 DU. application.Main main
+INFO: HTTP OK 200
+Connection established to: https://jsonplaceholder.typicode.com/users
+
+------------------------------
+júl. 01, 2022 1:40:47 DU. application.Main main
+INFO: HTTP OK 200
+Connection established to: https://jsonplaceholder.typicode.com/users
+
+------------------------------
+júl. 01, 2022 1:41:24 DU. application.Main main
+INFO: HTTP OK 200
+Connection established to: https://jsonplaceholder.typicode.com/users
+
+------------------------------
+júl. 01, 2022 1:41:44 DU. application.Main main
+INFO: HTTP OK 200
+Connection established to: https://jsonplaceholder.typicode.com/users
+
+------------------------------
+júl. 01, 2022 1:42:38 DU. application.Main main
+INFO: HTTP OK 200
+Connection established to: https://jsonplaceholder.typicode.com/users
+
+------------------------------
+júl. 01, 2022 1:46:58 DU. application.Main main
+INFO: HTTP OK 200
+Connection established to: https://jsonplaceholder.typicode.com/users
+
+------------------------------
+júl. 01, 2022 1:47:24 DU. application.Main main
+INFO: HTTP OK 200
+Connection established to: https://jsonplaceholder.typicode.com/users
+
+------------------------------
+júl. 01, 2022 1:56:28 DU. application.Main main
+INFO: HTTP OK 200
+Connection established to: https://jsonplaceholder.typicode.com/users
+
+------------------------------
+júl. 01, 2022 1:57:36 DU. application.Main main
+INFO: HTTP OK 200
+Connection established to: https://jsonplaceholder.typicode.com/users
+
+------------------------------

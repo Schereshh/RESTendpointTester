@@ -2,8 +2,15 @@ package application;
 
 import java.net.HttpURLConnection;
 import java.net.URL;
+import java.sql.SQLException;
+import java.util.HashMap;
+import java.util.Map;
 import java.util.Scanner;
 import java.util.logging.Level;
+
+import org.json.simple.JSONObject;
+import org.json.simple.JSONArray;
+import org.json.simple.parser.*;
 
 public class Main {
     public static void main(String[] args) {
@@ -43,12 +50,25 @@ public class Main {
 
                 scanner.close();
 
-                System.out.println(result);
-
+//                System.out.println(result);
                 DBConnect db = new DBConnect("localhost", "dvdrental", "postgres", "1234");
+
+                JSONParser parse = new JSONParser();
+                JSONArray dataObject = (JSONArray) parse.parse(String.valueOf(result));
+                JSONtoDB(dataObject);
             }
         } catch(Exception e){
             e.printStackTrace();
+        }
+    }
+
+    public static void JSONtoDB(JSONArray dataObject) throws SQLException, ClassNotFoundException {
+        for (Object o : dataObject) {
+            JSONObject userData = (JSONObject) o;
+
+            UserInformation inf         = new UserInformation(o);
+            AddressInformation address  = new AddressInformation(o);
+            CompanyInformation company  = new CompanyInformation(o);
         }
     }
 }
