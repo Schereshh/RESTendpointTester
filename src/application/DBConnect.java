@@ -2,10 +2,8 @@ package application;
 
 import java.sql.*;
 
-import org.postgresql.Driver;
-
 public class DBConnect {
-    private Connection c = null;
+    private Connection c;
     private Statement stmt = null;
     public DBConnect (String dbHost, String dbName, String username, String password) throws ClassNotFoundException, SQLException {
 
@@ -14,8 +12,6 @@ public class DBConnect {
         this.c = DriverManager.getConnection("jdbc:postgresql://" + dbHost + ":5432/" + dbName + "", username, password);
 
         this.c.setAutoCommit(false);
-
-        System.out.println("Database connection is successful");
     }
 
     public void updateDB (String query) throws SQLException {

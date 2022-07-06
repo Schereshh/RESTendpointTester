@@ -3,8 +3,6 @@ package application;
 import java.net.HttpURLConnection;
 import java.net.URL;
 import java.sql.SQLException;
-import java.util.HashMap;
-import java.util.Map;
 import java.util.Scanner;
 import java.util.logging.Level;
 
@@ -49,9 +47,6 @@ public class Main {
                 }
 
                 scanner.close();
-
-//                System.out.println(result);
-                DBConnect db = new DBConnect("localhost", "dvdrental", "postgres", "1234");
 
                 JSONParser parse = new JSONParser();
                 JSONArray dataObject = (JSONArray) parse.parse(String.valueOf(result));

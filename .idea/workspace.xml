@@ -5,19 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f2ac3b15-2dce-4f2b-b044-ab0c349a44b6" name="Changes" comment="Database connection implemented">
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/googlecode_json_simple.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/postgresql.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/hamcrest-core-1.1.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/json-simple-1.1.1.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/junit-4.10.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/application/AddressInformation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/application/CompanyInformation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/application/UserInformation.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/RESTendpointTester.iml" beforeDir="false" afterPath="$PROJECT_DIR$/RESTendpointTester.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/log.txt" beforeDir="false" afterPath="$PROJECT_DIR$/log.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/application/DBConnect.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/application/DBConnect.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/application/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/application/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/application/UserInformation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/application/UserInformation.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />

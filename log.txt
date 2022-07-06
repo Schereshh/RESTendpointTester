@@ -329,3 +329,23 @@ INFO: HTTP OK 200
 Connection established to: https://jsonplaceholder.typicode.com/users
 
 ------------------------------
+júl. 06, 2022 6:07:43 DU. application.Main main
+INFO: HTTP OK 200
+Connection established to: https://jsonplaceholder.typicode.com/users
+
+------------------------------
+júl. 06, 2022 6:07:53 DU. application.Main main
+INFO: HTTP OK 200
+Connection established to: https://jsonplaceholder.typicode.com/users
+
+------------------------------
+júl. 06, 2022 6:08:07 DU. application.Main main
+INFO: HTTP OK 200
+Connection established to: https://jsonplaceholder.typicode.com/users
+
+------------------------------
+júl. 06, 2022 6:09:02 DU. application.Main main
+INFO: HTTP OK 200
+Connection established to: https://jsonplaceholder.typicode.com/users
+
+------------------------------
